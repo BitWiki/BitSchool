@@ -9,8 +9,8 @@ A Knowledge Repository  of  Cyber Security
 
 
 
-[Active Directory](\ActiveDirectory\README.md)
+[Active Directory](/ActiveDirectory/README.md)
 
 
 
-[Bug Hunter](ActiveDirectory\README.md)
+[Bug Hunter](/ActiveDirectory/README.md)
